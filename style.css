@@ -2002,3 +2002,8 @@ blockquote {
 .researchgap1 {
   color: #686868;
 }
+
+#card-gap-title{
+  color: #49a32d;
+  font-weight: bolder;
+}
